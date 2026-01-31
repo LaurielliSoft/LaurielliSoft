@@ -89,7 +89,7 @@ Estudante de Engenharia de Software • Foco em base sólida, código limpo e cr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauriSoftDev&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LauriSoftDev&hide_border=true" />
 </p>
 
 ---
