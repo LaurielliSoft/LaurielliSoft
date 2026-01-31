@@ -6,7 +6,17 @@
 
 ###
 
-<h1 align="center">LAURIELLI SOARES DOS  SANTOS</h1>
+<div align="center">
+
+<h1 style="color:#132a13;">LAURIELLI SOARES DOS SANTOS</h1>
+
+<h2 style="color:#31572c;">Software Engineering</h2>
+
+<h3 style="color:#4f772d;">
+Code • Systems • Logic
+</h3>
+
+</div>
 
 ###
 
