@@ -6,13 +6,17 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">LAURIELLI SOARES DOS  SANTOS</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+## About Me
+<p align="left">I am a Software Engineering student focused on building a solid foundation in software development, system logic, and problem solving.
+
+I value clean code, continuous learning, and well-structured solutions.  
+Currently developing projects to strengthen my skills and grow professionally in technology.</p>
 
 ###
 
