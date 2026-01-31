@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#132a13;">Laurielli</h1>
+<h1 style="color:#132a13;">Laurielli Soares dos Santos</h1>
 
 <h3 style="color:#31572c;">Software Engineering</h3>
 
