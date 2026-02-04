@@ -6,16 +6,20 @@
     <br>
     Hi there! I'm Laurielli Soares dos Santos
     <br>
-    <b>LauriSoftDev</b>
+    <b>LaurielliSoft</b>
   </samp>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LauriSoftDev☆-132a13" />
+  <img src="https://img.shields.io/badge/LaurielliSoft☆-132a13" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=25&pause=1000&color=ECF39E&vCenter=true&width=435&lines=I+am+a+Software+Engineering+student.;+I+focus+on+building+a+solid+foundation+in+software+development%2C+system+logic%2C+and+problem+solving.;I+value+clean+code%2C+continuous+learning%2C+and+well-structured+solutions.;I+am+currently+developing+projects+to+strengthen+my+skills+and+grow+professionally+in+technology.)](https://git.io/typing-svg)
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&letterSpacing=1&pause=1000&color=ECF39E&center=true&vCenter=true&width=1000&lines=I+am+a+Software+Engineering+student;I+focus+on+building+software;I+value+clean+code+and+continuous+learning;I+develop+projects+to+grow+in+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&letterSpacing=1&pause=1000&color=4F772D&center=true&vCenter=true&width=1000&height=32&lines=Sou+estudante+de+Engenharia+de+Software;Meu+foco+%C3%A9+o+desenvolvimento+de+software;Valorizo+%E2%80%8B%E2%80%8Bc%C3%B3digo+limpo+e+aprendizado+cont%C3%ADnuo;Desenvolvo+projetos+para+crescer+na+%C3%A1rea+de+tecnologia)](https://git.io/typing-svg)
+
+<br>
 
 # 💫 About Me:
 I am a Software Engineering student focused on building a solid foundation in software development, system logic, and problem solving.<br><br>I value clean code, continuous learning, and well-structured solutions.  <br>Currently developing projects to strengthen my skills and grow professionally in technology.
@@ -32,9 +36,9 @@ I am a Software Engineering student focused on building a solid foundation in so
 ##
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LauriSoftDev&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LauriSoftDev&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriSoftDev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LaurielliSoft&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LaurielliSoft&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurielliSoft&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##
 
@@ -44,10 +48,10 @@ I am a Software Engineering student focused on building a solid foundation in so
 ##
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LauriSoftDev&limit=5&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=LaurielliSoft&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LauriSoftDev&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LaurielliSoft&icon=2&color=3)](https://visitcount.itsvg.in)
 <!--
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@laurisoftdev) -->
