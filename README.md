@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=119&color=132a13&text=%20%20&reversal=false&descAlign=53&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stalinist+One&size=50&pause=10000&color=AFCE68&center=true&vCenter=true&repeat=true&width=1000&lines=SOFTWARE+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stalinist+One&size=50&pause=10000&color=AFCE68&center=true&vCenter=true&repeat=false&width=1000&lines=SOFTWARE+ENGINEER)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=26&pause=10000&color=CBD5E1&width=435&height=55&lines=%E2%86%92+Linguagens%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=26&pause=10000&color=CBD5E1&repeat=false&width=435&height=55&lines=%E2%86%92+Linguagens%3A)](https://git.io/typing-svg)
 <br>
 <div align="center">
 
@@ -37,7 +37,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=26&pause=10000&color=CBD5E1&width=435&height=55&lines=%E2%86%92+Estátisticas%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=26&pause=10000&color=CBD5E1&repeat=false&width=435&height=55&lines=%E2%86%92+Estátisticas%3A)](https://git.io/typing-svg)
 <br>
 <div align="center">
   
@@ -48,7 +48,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&pause=10000&color=CBD5E1&width=435&height=55&lines=%E2%86%92+Random+Dev+Quote%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&pause=10000&color=CBD5E1&repeat=false&width=435&height=55&lines=%E2%86%92+Random+Dev+Quote%3A)](https://git.io/typing-svg)
 <br>
 <div align="center">
 
@@ -56,7 +56,7 @@
 #
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&pause=10000&color=CBD5E1&width=435&height=55&lines=%E2%86%92+Top+Contributed+Repo%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&pause=10000&color=CBD5E1&repeat=false&width=435&height=55&lines=%E2%86%92+Top+Contributed+Repo%3A)](https://git.io/typing-svg)
 <br>
 <div align="center">
   <a href="https://github.com/LaurielliSoft?tab=repositories">
