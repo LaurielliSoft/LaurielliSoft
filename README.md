@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil+One&size=25&letterSpacing=1&pause=1000&color=4F772D&center=true&vCenter=true&width=1000&height=30&lines=Sou+estudante+de+Engenharia+de+Software;Meu+foco+%C3%A9+o+desenvolvimento+de+software;Valorizo+%E2%80%8B%E2%80%8Bc%C3%B3digo+limpo+e+aprendizado+cont%C3%ADnuo;Desenvolvo+projetos+para+crescer+na+%C3%A1rea+de+tecnologia)](https://git.io/typing-svg)
 #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=26&pause=10000&color=CBD5E1&width=435&height=55&lines=%E2%86%92+Redes+Sociais%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=26&pause=10000&color=CBD5E1&repeat=false&width=435&height=55&lines=%E2%86%92+Redes+Sociais%3A)](https://git.io/typing-svg)
 <br>
 <div align="center">
 
